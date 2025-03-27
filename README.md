@@ -2,6 +2,75 @@
 
 A React application for managing your contacts and groups with profile pictures. Built with Firebase, Cloudinary, and Chakra UI.
 
+## Project Requirements
+
+### Feature Refinements (20 points)
+1. **Contact Management System**
+   - Create, read, update, and delete contacts
+   - Add profile pictures to contacts
+   - Organize contacts into groups
+   - Search and filter contacts
+
+2. **Group Management**
+   - Create and manage contact groups
+   - Add/remove contacts from groups
+   - Group-specific operations
+
+3. **Profile Picture Integration**
+   - Upload and store profile pictures using Cloudinary
+   - Automatic image optimization
+   - Secure image storage
+
+4. **Real-time Updates**
+   - Live synchronization of contacts and groups
+   - Instant updates across all users
+   - Offline support with Firebase persistence
+
+5. **Data Validation**
+   - Input validation for all forms
+   - Error handling and user feedback
+   - Secure data processing
+
+### UI Refinements (20 points)
+1. **Modern Design**
+   - Clean and intuitive interface
+   - Consistent color scheme
+   - Professional typography
+
+2. **Responsive Layout**
+   - Mobile-first approach
+   - Adaptive design for all screen sizes
+   - Touch-friendly interface
+
+3. **User Experience**
+   - Smooth transitions and animations
+   - Clear navigation structure
+   - Intuitive form layouts
+
+4. **Accessibility**
+   - ARIA labels and roles
+   - Keyboard navigation support
+   - High contrast text
+
+5. **Loading States**
+   - Skeleton loading screens
+   - Progress indicators
+   - Error state handling
+
+### User Authentication (20 points)
+- Secure user registration and login
+- Email/password authentication
+- Protected routes and components
+- Session management
+- Password recovery functionality
+
+### Data Persistence (30 points)
+- Firebase Firestore database integration
+- Real-time data synchronization
+- Offline data support
+- Secure data access rules
+- Automatic data backup
+
 ## Features
 
 - 🔐 User Authentication
